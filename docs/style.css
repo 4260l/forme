@@ -70,7 +70,7 @@ img:hover {
     grid-column: 1/2;
     grid-row: 2/3;
     background-color: #ddd;
-    padding-top: 25px;
+    padding-top: 50px;
     display: none;
 }
 
@@ -78,21 +78,21 @@ img:hover {
     grid-column: 1/2;
     grid-row: 2/3;
     background-color: #ccc;
-    padding-top: 50px;
+    padding-top: 70px;
 }
 
 .time3 {
     grid-column: 1/2;
     grid-row: 3/4;
     background-color: #bbb;
-    padding-top: 50px;
+    padding-top: 70px;
 }
 
 .time4 {
     grid-column: 1/2;
     grid-row: 4/5;
     background-color: #aaa;
-    padding-top: 50px;
+    padding-top: 70px;
 }
 
 /* 月曜日 */
