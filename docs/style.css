@@ -79,6 +79,7 @@ img:hover {
     grid-row: 2/3;
     background-color: #ccc;
     padding-top: 70px;
+    display: inline-block;
 }
 
 .time3 {
@@ -86,6 +87,7 @@ img:hover {
     grid-row: 3/4;
     background-color: #bbb;
     padding-top: 70px;
+    display: inline-block;
 }
 
 .time4 {
@@ -93,6 +95,7 @@ img:hover {
     grid-row: 4/5;
     background-color: #aaa;
     padding-top: 70px;
+    display: inline-block;
 }
 
 /* 月曜日 */
@@ -115,20 +118,20 @@ img:hover {
     grid-column: 2/3;
     grid-row: 2/3;
     background-color: #eee;
+    display: inline-block;
 }
 
 .mon-3 {
     grid-column: 2/3;
     grid-row: 3/4;
     background-color: #eee;
+    display: inline-block;
 }
 
 .mon-4 {
     grid-column: 2/3;
     grid-row: 4/5;
     background-color: #eee;
-    display: none;
-    /* 空きコマ */
 }
 
 /* 火曜日 */
@@ -137,6 +140,7 @@ img:hover {
     grid-row: 1/2;
     background-color: #C2EFEB;
     color: #41337A;
+    display: inline-block;
 }
 
 .tue-1 {
@@ -151,18 +155,21 @@ img:hover {
     grid-column: 3/4;
     grid-row: 2/3;
     background-color: #eee;
+    display: inline-block;
 }
 
 .tue-3 {
     grid-column: 3/4;
     grid-row: 3/4;
     background-color: #eee;
+    display: inline-block;
 }
 
 .tue-4 {
     grid-column: 3/4;
     grid-row: 4/5;
     background-color: #eee;
+    display: inline-block;
 }
 
 /* 水曜日 */
@@ -193,8 +200,7 @@ img:hover {
     grid-column: 4/5;
     grid-row: 3/4;
     background-color: #eee;
-    display: none;
-    /* 空きコマ */
+    display: inline-block;
 }
 
 .wed-4 {
@@ -211,6 +217,7 @@ img:hover {
     grid-row: 1/2;
     background-color: #41337A;
     color: #ECFEE8;
+    display: inline-block;
 }
 
 .thr-1 {
@@ -225,18 +232,21 @@ img:hover {
     grid-column: 5/6;
     grid-row: 2/3;
     background-color: #eee;
+    display: inline-block;
 }
 
 .thr-3 {
     grid-column: 5/6;
     grid-row: 3/4;
     background-color: #eee;
+    display: inline-block;
 }
 
 .thr-4 {
     grid-column: 5/6;
     grid-row: 4/5;
     background-color: #eee;
+    display: inline-block;
 }
 
 /* 金曜日 */
@@ -259,16 +269,20 @@ img:hover {
     grid-column: 6/7;
     grid-row: 2/3;
     background-color: #eee;
+    display: inline-block;
 }
 
 .fri-3 {
     grid-column: 6/7;
     grid-row: 3/4;
     background-color: #eee;
+    display: inline-block;
 }
 
 .fri-4 {
     grid-column: 6/7;
     grid-row: 4/5;
     background-color: #eee;
+    display: none;
+    /* 空きコマ */
 }
